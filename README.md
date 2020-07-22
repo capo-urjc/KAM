@@ -1,5 +1,7 @@
 # Kinect Acquisition Analogue Models (KAM)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3956392.svg)](https://doi.org/10.5281/zenodo.3956392)
+
 Kinect Acquisition for Analogue Models (KAM) is a software package designed to ease the acquisition and filtering of Kinect Depth data (from Kinect v2 device version), together with RGB images obtained also by Kinect v2 or by any other camera connected to the computer. KAM has been developed thinking on researchers interested on the use of Kinect v2 device for monitoring “sandbox” volcanic or tectonic analogue models, with no need for any coding training. 
 
 KAM has two executables files:
